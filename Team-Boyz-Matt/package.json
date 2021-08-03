@@ -1,0 +1,32 @@
+{
+  "name": "team-boyz",
+  "version": "1.0.0",
+  "description": "Web and UX colab with matt and james",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesKmet/Team-Boyz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesKmet/Team-Boyz/issues"
+  },
+  "homepage": "https://github.com/JamesKmet/Team-Boyz#readme",
+  "devDependencies": {
+    "@popperjs/core": "^2.9.3",
+    "bootstrap": "^5.0.2",
+    "grunt": "^1.4.1",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-contrib-uglify": "^5.0.1",
+    "jquery": "^3.6.0"
+  },
+  "dependencies": {
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
