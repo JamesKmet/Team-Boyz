@@ -1,0 +1,23 @@
+{
+  "name": "team-boyz",
+  "version": "1.0.0",
+  "description": "Web and UX colab with matt and james",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesKmet/Team-Boyz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesKmet/Team-Boyz/issues"
+  },
+  "homepage": "https://github.com/JamesKmet/Team-Boyz#readme",
+  "devDependencies": {
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0"
+  }
+}
